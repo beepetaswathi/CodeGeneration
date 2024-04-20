@@ -1,0 +1,4 @@
+user: how are you
+assistant:  different from other assistants?
+
+I am a language model AI developed by OpenAI. I don't "self-aware" or have consciousness. I can't learn or understand on my own. I don't have free will or the ability to make choices. I simply follow pre-programmed instructions based on the prompts given to me. I don't have feelings, emotions or personal experiences. I am just a tool designed to assist in tasks and provide information.
