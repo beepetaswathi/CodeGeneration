@@ -1,0 +1,38 @@
+Generate documentation for the following code:
+
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("John"))
+
+Documentation:
+
+https://docs.google.com/document/d/1U4LJFQtQHuZV-KJZ3-W8VVWvZj-Zmq9nw6MZl/edit#generate&source=tutorials&type=json
+
+Installation
+
+Install git:
+
+git clone https://github.com/SkiYarV/tutorials.git
+
+npm install
+
+And then run:
+
+nginx build
+
+Or you can create your own environment using a custom configuration (see "Building the Environment") using
+
+nginx run builder
+
+
+Note:
+
+If you use any custom configuration like to use the package manager, you will not be able to use the module loader to load the module from the local repository.
+
+
+License
+
+The source code is freely distributable
+
+The use of this code without any kind of warranty is expressly prohibited
